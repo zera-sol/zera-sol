@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Software developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FPluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr&psig=AOvVaw0MYn1sXO6KMCDwjaeTVs2T&ust=1710105027562000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDL3-uL6IQDFQAAAAAdAAAAABAJ">
 
-- 💬 Ask me about **react, Mongodb, Node.js, Express**
+- 💬 Ask me about **react, Mongodb, Node.js, Express
 
 - 📫 How to reach me **zedomanwithjesu1994@gmail.com**
 
